@@ -49,7 +49,7 @@ const Footer = () => {
         <p>
           Made with ❤ by{" "}
           <a
-            href="https://github.com/Neerajx11"
+            href="https://github.com/Nandanji"
             className="underline cursor-pointer"
             target="blank"
           >
